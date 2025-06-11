@@ -6,6 +6,11 @@ The prototype is a smart ESP32-based system designed to monitor trauma outpatien
 
 [▶️ Click here to run the Wokwi simulation](https://wokwi.com/projects/433441869261032449)
 
+Demo Instructions:
+•	Use potentiometers to simulate pulse and sound
+•	Move MPU6050 in GUI to simulate a fall
+•	Watch serial monitor for alerts
+•	Check SD card contents after events
 
 ## Project Synopsis
 
