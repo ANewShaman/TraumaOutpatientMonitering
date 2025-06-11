@@ -9,7 +9,7 @@ The prototype is a smart ESP32-based system designed to monitor trauma outpatien
 
 ## Project Synopsis
 
-Refer to TraumaOutpatientMonitoring_Synopsis.pdf for a brief overview of the project goals, components, features, and usage
+Refer to [📄 TraumaOutpatientMonitoring_Synopsis.pdf](TraumaOutpatientMonitoring_Synopsis.pdf) for a brief overview of the project goals, components, features, and usage
 
 ## Components Used
 - ESP32 Dev Module
