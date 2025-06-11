@@ -21,3 +21,20 @@ Refer to TraumaOutpatientMonitoring_Synopsis.pdf for a brief overview of the pro
 ## Use Case
 Outpatients recovering from trauma, accidents, or surgery may be at risk while alone. This system helps monitor their condition in real-time with minimal hardware.
 
+## Screenshots
+
+### 1. Circuit Connections  
+![Circuit Connections](circuit_connections.jpg)
+
+### 2. Online Logging  
+![Online Logging](online_serial_logging.jpg)
+
+### 3. Sound Detection  
+![Sound Detection](sound_detection.jpg)
+
+### 4. Pulse Abnormality + Temperature Spike  
+![Pulse & Temp Alert](temp_spike.jpg)
+
+### 5. Fall Detection  
+![Fall Detection](fall_detection.jpg)
+
